@@ -1,0 +1,880 @@
+{
+ "name": "We The Media",
+ "type": "public_channel",
+ "id": 1161789591,
+ "messages": [
+  {
+   "id": 141516,
+   "type": "message",
+   "date": "2026-05-18T11:11:49",
+   "date_unixtime": "1779124309",
+   "edited": "2026-05-18T11:13:14",
+   "edited_unixtime": "1779124394",
+   "from": "We The Media",
+   "from_id": "channel1161789591",
+   "forwarded_from": "Bitcoin",
+   "forwarded_from_id": "channel1193342710",
+   "photo": "photos/photo_60147@18-05-2026_11-11-49.jpg",
+   "photo_file_size": 90890,
+   "width": 1280,
+   "height": 562,
+   "text": [
+    "JUST IN: 🇮🇷 Bloomberg reports that Iran started a Bitcoin-backed insurance service for shipping companies wanting to transit the Strait of Hormuz.\n\nIt could reportedly generate more than $10 BILLION in revenue 🤯\n\nSource: ",
+    {
+     "type": "link",
+     "text": "https://x.com/BitcoinMagazine/status/2056354484532428877?s=20"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "JUST IN: 🇮🇷 Bloomberg reports that Iran started a Bitcoin-backed insurance service for shipping companies wanting to transit the Strait of Hormuz.\n\nIt could reportedly generate more than $10 BILLION in revenue 🤯\n\nSource: "
+    },
+    {
+     "type": "link",
+     "text": "https://x.com/BitcoinMagazine/status/2056354484532428877?s=20"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ],
+   "reactions": [
+    {
+     "type": "emoji",
+     "count": 172,
+     "emoji": "👎"
+    },
+    {
+     "type": "emoji",
+     "count": 56,
+     "emoji": "😁"
+    },
+    {
+     "type": "emoji",
+     "count": 14,
+     "emoji": "🔥"
+    },
+    {
+     "type": "emoji",
+     "count": 13,
+     "emoji": "👀"
+    },
+    {
+     "type": "emoji",
+     "count": 9,
+     "emoji": "❤"
+    },
+    {
+     "type": "emoji",
+     "count": 8,
+     "emoji": "💊"
+    },
+    {
+     "type": "emoji",
+     "count": 6,
+     "emoji": "🤬"
+    },
+    {
+     "type": "emoji",
+     "count": 3,
+     "emoji": "👌"
+    },
+    {
+     "type": "emoji",
+     "count": 1,
+     "emoji": "🤨"
+    }
+   ]
+  },
+  {
+   "id": 141517,
+   "type": "message",
+   "date": "2026-05-18T11:44:01",
+   "date_unixtime": "1779126241",
+   "edited": "2026-05-18T11:44:29",
+   "edited_unixtime": "1779126269",
+   "from": "We The Media",
+   "from_id": "channel1161789591",
+   "forwarded_from": "Eric Daugherty",
+   "forwarded_from_id": "channel3251174282",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "video.mp4",
+   "file_size": 3338226,
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "thumbnail_file_size": 22334,
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 34,
+   "width": 1440,
+   "height": 1080,
+   "text": "🚨 NOW: President Trump just dropped this truth bomb on JB Pritzker and Brandon Johnson\n\n\"DUMB AND DUMBER\"\n\"THE ILLINOIS GOVERNMENT\" \n\nBoth of them are pure TRAITORS who are allowing the people of Illinois and Chicago to be pillaged!\n\nUtter FAILURES.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🚨 NOW: President Trump just dropped this truth bomb on JB Pritzker and Brandon Johnson\n\n\"DUMB AND DUMBER\"\n\"THE ILLINOIS GOVERNMENT\" \n\nBoth of them are pure TRAITORS who are allowing the people of Illinois and Chicago to be pillaged!\n\nUtter FAILURES."
+    }
+   ],
+   "reactions": [
+    {
+     "type": "emoji",
+     "count": 481,
+     "emoji": "💯"
+    },
+    {
+     "type": "emoji",
+     "count": 78,
+     "emoji": "🤣"
+    },
+    {
+     "type": "emoji",
+     "count": 21,
+     "emoji": "👍"
+    },
+    {
+     "type": "emoji",
+     "count": 15,
+     "emoji": "❤"
+    },
+    {
+     "type": "emoji",
+     "count": 11,
+     "emoji": "💊"
+    },
+    {
+     "type": "emoji",
+     "count": 9,
+     "emoji": "🔥"
+    },
+    {
+     "type": "emoji",
+     "count": 4,
+     "emoji": "😁"
+    },
+    {
+     "type": "emoji",
+     "count": 3,
+     "emoji": "👌"
+    },
+    {
+     "type": "emoji",
+     "count": 3,
+     "emoji": "🍾"
+    },
+    {
+     "type": "emoji",
+     "count": 1,
+     "emoji": "⚡"
+    },
+    {
+     "type": "emoji",
+     "count": 1,
+     "emoji": "🤨"
+    }
+   ]
+  },
+  {
+   "id": 141518,
+   "type": "message",
+   "date": "2026-05-18T12:02:02",
+   "date_unixtime": "1779127322",
+   "edited": "2026-05-18T12:02:26",
+   "edited_unixtime": "1779127346",
+   "from": "We The Media",
+   "from_id": "channel1161789591",
+   "forwarded_from": "Watcher Guru",
+   "forwarded_from_id": "channel1556054753",
+   "photo": "photos/photo_60148@18-05-2026_12-02-02.jpg",
+   "photo_file_size": 148958,
+   "width": 1032,
+   "height": 1165,
+   "text": [
+    {
+     "type": "bold",
+     "text": "JUST IN:"
+    },
+    " 🇺🇸 Kevin Warsh to be sworn in as Fed Chair on Friday, officially replacing Jerome Powell.\n\n",
+    {
+     "type": "mention",
+     "text": "@WatcherGuru"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "JUST IN:"
+    },
+    {
+     "type": "plain",
+     "text": " 🇺🇸 Kevin Warsh to be sworn in as Fed Chair on Friday, officially replacing Jerome Powell.\n\n"
+    },
+    {
+     "type": "mention",
+     "text": "@WatcherGuru"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ],
+   "reactions": [
+    {
+     "type": "emoji",
+     "count": 494,
+     "emoji": "❤"
+    },
+    {
+     "type": "emoji",
+     "count": 170,
+     "emoji": "👍"
+    },
+    {
+     "type": "emoji",
+     "count": 133,
+     "emoji": "👏"
+    },
+    {
+     "type": "emoji",
+     "count": 63,
+     "emoji": "🙏"
+    },
+    {
+     "type": "emoji",
+     "count": 34,
+     "emoji": "🎉"
+    },
+    {
+     "type": "emoji",
+     "count": 21,
+     "emoji": "🔥"
+    },
+    {
+     "type": "emoji",
+     "count": 3,
+     "emoji": "👎"
+    }
+   ]
+  },
+  {
+   "id": 141519,
+   "type": "message",
+   "date": "2026-05-18T12:02:02",
+   "date_unixtime": "1779127322",
+   "edited": "2026-05-18T12:02:06",
+   "edited_unixtime": "1779127326",
+   "from": "We The Media",
+   "from_id": "channel1161789591",
+   "forwarded_from": "Watcher Guru",
+   "forwarded_from_id": "channel1556054753",
+   "photo": "photos/photo_60149@18-05-2026_12-02-02.jpg",
+   "photo_file_size": 254204,
+   "width": 1032,
+   "height": 1165,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 141520,
+   "type": "message",
+   "date": "2026-05-18T13:05:17",
+   "date_unixtime": "1779131117",
+   "edited": "2026-05-18T13:07:19",
+   "edited_unixtime": "1779131239",
+   "from": "We The Media",
+   "from_id": "channel1161789591",
+   "forwarded_from": "Donald J. Trump",
+   "forwarded_from_id": "channel1462338131",
+   "text": "I have been asked by the Emir of Qatar, Tamim bin Hamad Al Thani, the Crown Prince of Saudi Arabia, Mohammed bin Salman Al Saud, and the President of the United Arab Emirates, Mohamed bin Zayed Al Nahyan, to hold off on our planned Military attack of the Islamic Republic of Iran, which was scheduled for tomorrow, in that serious negotiations are now taking place, and that, in their opinion, as Great Leaders and Allies, a Deal will be made, which will be very acceptable to the United States of America, as well as all Countries in the Middle East, and beyond. This Deal will include, importantly, NO NUCLEAR WEAPONS FOR IRAN! Based on my respect for the above mentioned Leaders, I have instructed Secretary of War, Pete Hegseth, The Chairman of The Joint Chiefs of Staff, General Daniel Caine, and The United States Military, that we will NOT be doing the scheduled attack of Iran tomorrow, but have further instructed them to be prepared to go forward with a full, large scale assault of Iran, on a moment’s notice, in the event that an acceptable Deal is not reached. Thank you for your attention to this matter! President DONALD J. TRUMP",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I have been asked by the Emir of Qatar, Tamim bin Hamad Al Thani, the Crown Prince of Saudi Arabia, Mohammed bin Salman Al Saud, and the President of the United Arab Emirates, Mohamed bin Zayed Al Nahyan, to hold off on our planned Military attack of the Islamic Republic of Iran, which was scheduled for tomorrow, in that serious negotiations are now taking place, and that, in their opinion, as Great Leaders and Allies, a Deal will be made, which will be very acceptable to the United States of America, as well as all Countries in the Middle East, and beyond. This Deal will include, importantly, NO NUCLEAR WEAPONS FOR IRAN! Based on my respect for the above mentioned Leaders, I have instructed Secretary of War, Pete Hegseth, The Chairman of The Joint Chiefs of Staff, General Daniel Caine, and The United States Military, that we will NOT be doing the scheduled attack of Iran tomorrow, but have further instructed them to be prepared to go forward with a full, large scale assault of Iran, on a moment’s notice, in the event that an acceptable Deal is not reached. Thank you for your attention to this matter! President DONALD J. TRUMP"
+    }
+   ],
+   "reactions": [
+    {
+     "type": "emoji",
+     "count": 230,
+     "emoji": "❤"
+    },
+    {
+     "type": "emoji",
+     "count": 88,
+     "emoji": "🙏"
+    },
+    {
+     "type": "emoji",
+     "count": 80,
+     "emoji": "🔥"
+    },
+    {
+     "type": "emoji",
+     "count": 26,
+     "emoji": "👍"
+    },
+    {
+     "type": "emoji",
+     "count": 18,
+     "emoji": "👏"
+    },
+    {
+     "type": "emoji",
+     "count": 8,
+     "emoji": "👌"
+    },
+    {
+     "type": "emoji",
+     "count": 7,
+     "emoji": "👎"
+    },
+    {
+     "type": "emoji",
+     "count": 5,
+     "emoji": "🤔"
+    },
+    {
+     "type": "emoji",
+     "count": 5,
+     "emoji": "🤣"
+    },
+    {
+     "type": "emoji",
+     "count": 5,
+     "emoji": "🤨"
+    }
+   ]
+  },
+  {
+   "id": 141521,
+   "type": "message",
+   "date": "2026-05-18T13:18:31",
+   "date_unixtime": "1779131911",
+   "edited": "2026-05-18T13:19:38",
+   "edited_unixtime": "1779131978",
+   "from": "We The Media",
+   "from_id": "channel1161789591",
+   "photo": "photos/photo_60150@18-05-2026_13-18-31.jpg",
+   "photo_file_size": 112413,
+   "width": 1196,
+   "height": 1280,
+   "text": [
+    "A California woman has been charged with illegally paying people to register to vote in federal elections - even falsely listing her own former residence for California mail-out ballots for homeless individuals without a mailing address.\n\nRead the DOJ Press Release: ",
+    {
+     "type": "link",
+     "text": "https://www.justice.gov/opa/pr/california-woman-federally-charged-paying-individuals-including-homeless-people-las-skid-row"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "@"
+    },
+    {
+     "type": "text_link",
+     "text": "WeTheMedia",
+     "href": "https://t.me/WeTheMedia"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "A California woman has been charged with illegally paying people to register to vote in federal elections - even falsely listing her own former residence for California mail-out ballots for homeless individuals without a mailing address.\n\nRead the DOJ Press Release: "
+    },
+    {
+     "type": "link",
+     "text": "https://www.justice.gov/opa/pr/california-woman-federally-charged-paying-individuals-including-homeless-people-las-skid-row"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "@"
+    },
+    {
+     "type": "text_link",
+     "text": "WeTheMedia",
+     "href": "https://t.me/WeTheMedia"
+    }
+   ],
+   "reactions": [
+    {
+     "type": "emoji",
+     "count": 445,
+     "emoji": "👏"
+    },
+    {
+     "type": "emoji",
+     "count": 52,
+     "emoji": "👍"
+    },
+    {
+     "type": "emoji",
+     "count": 51,
+     "emoji": "🔥"
+    },
+    {
+     "type": "emoji",
+     "count": 13,
+     "emoji": "❤"
+    },
+    {
+     "type": "emoji",
+     "count": 12,
+     "emoji": "🤬"
+    },
+    {
+     "type": "emoji",
+     "count": 9,
+     "emoji": "💊"
+    },
+    {
+     "type": "emoji",
+     "count": 2,
+     "emoji": "🤣"
+    },
+    {
+     "type": "emoji",
+     "count": 1,
+     "emoji": "🙏"
+    }
+   ]
+  },
+  {
+   "id": 141522,
+   "type": "message",
+   "date": "2026-05-18T13:19:39",
+   "date_unixtime": "1779131979",
+   "edited": "2026-05-18T13:21:51",
+   "edited_unixtime": "1779132111",
+   "from": "We The Media",
+   "from_id": "channel1161789591",
+   "author": "GMONEY ₿",
+   "forwarded_from": "₿ullion, ₿itcoin & Anti-Semitism w/ GMONEY",
+   "forwarded_from_id": "channel1441410644",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://fixupx.com/Bitcoin_Teddy/status/2056345304681545850?s=20"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://fixupx.com/Bitcoin_Teddy/status/2056345304681545850?s=20"
+    }
+   ],
+   "reactions": [
+    {
+     "type": "emoji",
+     "count": 74,
+     "emoji": "❤"
+    },
+    {
+     "type": "emoji",
+     "count": 31,
+     "emoji": "👍"
+    },
+    {
+     "type": "emoji",
+     "count": 29,
+     "emoji": "🤔"
+    },
+    {
+     "type": "emoji",
+     "count": 17,
+     "emoji": "👎"
+    },
+    {
+     "type": "emoji",
+     "count": 6,
+     "emoji": "🔥"
+    },
+    {
+     "type": "emoji",
+     "count": 4,
+     "emoji": "🥰"
+    },
+    {
+     "type": "emoji",
+     "count": 4,
+     "emoji": "💊"
+    }
+   ]
+  },
+  {
+   "id": 141523,
+   "type": "message",
+   "date": "2026-05-18T13:55:57",
+   "date_unixtime": "1779134157",
+   "edited": "2026-05-18T13:56:42",
+   "edited_unixtime": "1779134202",
+   "from": "We The Media",
+   "from_id": "channel1161789591",
+   "photo": "photos/photo_60151@18-05-2026_13-55-57.jpg",
+   "photo_file_size": 191912,
+   "width": 1024,
+   "height": 1280,
+   "text": [
+    "The bodies of four remaining Italian divers were found Monday in the Maldives, four days after they went missing while exploring an underwater cave.\n\nAn elite team of three expert divers from Finland located the bodies of Monica Montefalcone, 52, her daughter Giorgia Sommacal, 20, Muriel Oddenino, 31, and Federico Gualtieri, 31, Italy’s foreign ministry said.\n\nThe group was found inside Thinwana Kandu cave, also known as “shark cave,” by the squad, which was assembled in 48 hours by the group Divers Alert Network Europe.\n\n",
+    {
+     "type": "text_link",
+     "text": "Link",
+     "href": "https://nypost.com/2026/05/18/world-news/remaining-bodies-of-missing-tourists-found-in-shark-cave-after-maldives-worst-ever-diving-disaster/?utm_source=facebook&utm_campaign=nypost&sr_share=facebook&utm_medium=social&utm_campaign=nypost&sr_share=facebook&utm_source=facebook&utm_medium=social&fbclid=IwdGRjcAR4ThBjbGNrBHhNu2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHpcL3xSvS9-UtxCNgwtOVW-0Mo_XTm3sclAo29YXSLHQHKifr-R11gktgT02_aem_nC9297vOtsxe0gOaZ_aZSw"
+    },
+    "\n\n",
+    {
+     "type": "text_link",
+     "text": "@WeTheMedia",
+     "href": "https://t.me/WeTheMedia"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "The bodies of four remaining Italian divers were found Monday in the Maldives, four days after they went missing while exploring an underwater cave.\n\nAn elite team of three expert divers from Finland located the bodies of Monica Montefalcone, 52, her daughter Giorgia Sommacal, 20, Muriel Oddenino, 31, and Federico Gualtieri, 31, Italy’s foreign ministry said.\n\nThe group was found inside Thinwana Kandu cave, also known as “shark cave,” by the squad, which was assembled in 48 hours by the group Divers Alert Network Europe.\n\n"
+    },
+    {
+     "type": "text_link",
+     "text": "Link",
+     "href": "https://nypost.com/2026/05/18/world-news/remaining-bodies-of-missing-tourists-found-in-shark-cave-after-maldives-worst-ever-diving-disaster/?utm_source=facebook&utm_campaign=nypost&sr_share=facebook&utm_medium=social&utm_campaign=nypost&sr_share=facebook&utm_source=facebook&utm_medium=social&fbclid=IwdGRjcAR4ThBjbGNrBHhNu2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHpcL3xSvS9-UtxCNgwtOVW-0Mo_XTm3sclAo29YXSLHQHKifr-R11gktgT02_aem_nC9297vOtsxe0gOaZ_aZSw"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "text_link",
+     "text": "@WeTheMedia",
+     "href": "https://t.me/WeTheMedia"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ],
+   "reactions": [
+    {
+     "type": "emoji",
+     "count": 300,
+     "emoji": "😢"
+    },
+    {
+     "type": "emoji",
+     "count": 170,
+     "emoji": "🙏"
+    },
+    {
+     "type": "emoji",
+     "count": 23,
+     "emoji": "❤"
+    },
+    {
+     "type": "emoji",
+     "count": 10,
+     "emoji": "💔"
+    },
+    {
+     "type": "emoji",
+     "count": 6,
+     "emoji": "😱"
+    },
+    {
+     "type": "emoji",
+     "count": 4,
+     "emoji": "🔥"
+    },
+    {
+     "type": "emoji",
+     "count": 2,
+     "emoji": "🤔"
+    },
+    {
+     "type": "emoji",
+     "count": 1,
+     "emoji": "👏"
+    }
+   ]
+  },
+  {
+   "id": 141524,
+   "type": "message",
+   "date": "2026-05-18T14:07:01",
+   "date_unixtime": "1779134821",
+   "edited": "2026-05-18T14:07:54",
+   "edited_unixtime": "1779134874",
+   "from": "We The Media",
+   "from_id": "channel1161789591",
+   "forwarded_from": "Badlands Media",
+   "forwarded_from_id": "channel1595587992",
+   "text": [
+    "A federal jury rejected Elon Musk’s claims against OpenAI CEO Sam Altman after less than two hours of deliberation, siding with the defense in a dispute over OpenAI’s nonprofit origins and later restructuring.\n\n",
+    {
+     "type": "text_link",
+     "text": "https://badlandsmedia.tv/jury-rejects-musk-claims-against-openai-sam-altman",
+     "href": "https://badlandsmedia.tv/jury-rejects-musk-claims-against-openai-sam-altman/"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "A federal jury rejected Elon Musk’s claims against OpenAI CEO Sam Altman after less than two hours of deliberation, siding with the defense in a dispute over OpenAI’s nonprofit origins and later restructuring.\n\n"
+    },
+    {
+     "type": "text_link",
+     "text": "https://badlandsmedia.tv/jury-rejects-musk-claims-against-openai-sam-altman",
+     "href": "https://badlandsmedia.tv/jury-rejects-musk-claims-against-openai-sam-altman/"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ],
+   "reactions": [
+    {
+     "type": "emoji",
+     "count": 215,
+     "emoji": "👎"
+    },
+    {
+     "type": "emoji",
+     "count": 95,
+     "emoji": "🤬"
+    },
+    {
+     "type": "emoji",
+     "count": 42,
+     "emoji": "🤔"
+    },
+    {
+     "type": "emoji",
+     "count": 11,
+     "emoji": "❤"
+    },
+    {
+     "type": "emoji",
+     "count": 5,
+     "emoji": "🙏"
+    },
+    {
+     "type": "emoji",
+     "count": 4,
+     "emoji": "😢"
+    },
+    {
+     "type": "emoji",
+     "count": 1,
+     "emoji": "🤯"
+    },
+    {
+     "type": "emoji",
+     "count": 1,
+     "emoji": "👌"
+    }
+   ]
+  },
+  {
+   "id": 141525,
+   "type": "message",
+   "date": "2026-05-18T14:26:39",
+   "date_unixtime": "1779135999",
+   "edited": "2026-05-18T14:26:54",
+   "edited_unixtime": "1779136014",
+   "from": "We The Media",
+   "from_id": "channel1161789591",
+   "forwarded_from": "Police frequency",
+   "forwarded_from_id": "channel1136479756",
+   "photo": "photos/photo_60152@18-05-2026_14-26-39.jpg",
+   "photo_file_size": 73213,
+   "width": 720,
+   "height": 599,
+   "text": [
+    "BREAKING: Active shooter reported at the Islamic Center of San Diego in California. \n\nSDPD is on scene at the Islamic Center of San Diego in the 7000 block of Eckstrom Ave for a reported active shooter.\n\nPlease avoid the area. Updates to follow. \n\n",
+    {
+     "type": "text_link",
+     "text": "San Diego Police Department",
+     "href": "https://x.com/i/status/2056450588884517091?mx=2"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "More details will be provided as they become available. "
+    },
+    "\n\n",
+    {
+     "type": "mention",
+     "text": "@police_frequency"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "BREAKING: Active shooter reported at the Islamic Center of San Diego in California. \n\nSDPD is on scene at the Islamic Center of San Diego in the 7000 block of Eckstrom Ave for a reported active shooter.\n\nPlease avoid the area. Updates to follow. \n\n"
+    },
+    {
+     "type": "text_link",
+     "text": "San Diego Police Department",
+     "href": "https://x.com/i/status/2056450588884517091?mx=2"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "More details will be provided as they become available. "
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "mention",
+     "text": "@police_frequency"
+    }
+   ],
+   "reactions": [
+    {
+     "type": "emoji",
+     "count": 165,
+     "emoji": "🙏"
+    },
+    {
+     "type": "emoji",
+     "count": 23,
+     "emoji": "🎉"
+    },
+    {
+     "type": "emoji",
+     "count": 15,
+     "emoji": "😱"
+    },
+    {
+     "type": "emoji",
+     "count": 12,
+     "emoji": "❤"
+    },
+    {
+     "type": "emoji",
+     "count": 11,
+     "emoji": "👀"
+    },
+    {
+     "type": "emoji",
+     "count": 6,
+     "emoji": "🤨"
+    },
+    {
+     "type": "emoji",
+     "count": 5,
+     "emoji": "👌"
+    },
+    {
+     "type": "emoji",
+     "count": 3,
+     "emoji": "😢"
+    },
+    {
+     "type": "emoji",
+     "count": 2,
+     "emoji": "😁"
+    },
+    {
+     "type": "emoji",
+     "count": 1,
+     "emoji": "🔥"
+    }
+   ]
+  },
+  {
+   "id": 141526,
+   "type": "message",
+   "date": "2026-05-18T14:29:01",
+   "date_unixtime": "1779136141",
+   "edited": "2026-05-18T14:29:12",
+   "edited_unixtime": "1779136152",
+   "from": "We The Media",
+   "from_id": "channel1161789591",
+   "forwarded_from": "Trump Supporters Channel 🇺🇸",
+   "forwarded_from_id": "channel1459890679",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "mRShkOUl7CeusA_remux.mp4",
+   "file_size": 2431708,
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "thumbnail_file_size": 16642,
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 30,
+   "width": 1136,
+   "height": 720,
+   "text": [
+    "Secretary of War Pete Hegseth does an impression of President Trump recounting what Trump told him before taking the job: \"PETE, you're gonna have to be tough as shit… You ready? They're gonna come after you!\"\n\n",
+    {
+     "type": "mention",
+     "text": "@TrumpChannel"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Secretary of War Pete Hegseth does an impression of President Trump recounting what Trump told him before taking the job: \"PETE, you're gonna have to be tough as shit… You ready? They're gonna come after you!\"\n\n"
+    },
+    {
+     "type": "mention",
+     "text": "@TrumpChannel"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ],
+   "reactions": [
+    {
+     "type": "emoji",
+     "count": 306,
+     "emoji": "❤"
+    },
+    {
+     "type": "emoji",
+     "count": 218,
+     "emoji": "🤣"
+    },
+    {
+     "type": "emoji",
+     "count": 38,
+     "emoji": "👍"
+    },
+    {
+     "type": "emoji",
+     "count": 14,
+     "emoji": "😁"
+    },
+    {
+     "type": "emoji",
+     "count": 8,
+     "emoji": "🏆"
+    },
+    {
+     "type": "emoji",
+     "count": 7,
+     "emoji": "🎉"
+    },
+    {
+     "type": "emoji",
+     "count": 5,
+     "emoji": "🙏"
+    },
+    {
+     "type": "emoji",
+     "count": 4,
+     "emoji": "👎"
+    }
+   ]
+  }
+ ]
+}

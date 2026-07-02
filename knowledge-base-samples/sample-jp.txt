@@ -1,0 +1,1285 @@
+{
+ "name": "WeTheMedia_jp日本語訳チャット",
+ "type": "public_supergroup",
+ "id": 1613378190,
+ "messages": [
+  {
+   "id": 188478,
+   "type": "message",
+   "date": "2026-05-18T11:15:08",
+   "date_unixtime": "1779124508",
+   "from": "WeTheMedia🇯🇵日本語訳️️️",
+   "from_id": "channel1501671025",
+   "forwarded_from": "Bitcoin",
+   "forwarded_from_id": "channel1193342710",
+   "saved_from": "WeTheMedia🇯🇵日本語訳️️️",
+   "photo": "photos/photo_19915@18-05-2026_11-15-08.jpg",
+   "photo_file_size": 90890,
+   "width": 1280,
+   "height": 562,
+   "text": [
+    "JUST IN: 🇮🇷 Bloomberg reports that Iran started a Bitcoin-backed insurance service for shipping companies wanting to transit the Strait of Hormuz.\n\nIt could reportedly generate more than $10 BILLION in revenue 🤯\n\nSource: ",
+    {
+     "type": "link",
+     "text": "https://x.com/BitcoinMagazine/status/2056354484532428877?s=20"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "JUST IN: 🇮🇷 Bloomberg reports that Iran started a Bitcoin-backed insurance service for shipping companies wanting to transit the Strait of Hormuz.\n\nIt could reportedly generate more than $10 BILLION in revenue 🤯\n\nSource: "
+    },
+    {
+     "type": "link",
+     "text": "https://x.com/BitcoinMagazine/status/2056354484532428877?s=20"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 188479,
+   "type": "message",
+   "date": "2026-05-18T11:15:15",
+   "date_unixtime": "1779124515",
+   "edited": "2026-05-18T11:15:17",
+   "edited_unixtime": "1779124517",
+   "from": "WeTheMedia🇯🇵日本語訳️️️",
+   "from_id": "channel1501671025",
+   "forwarded_from": "WeTheMedia🇯🇵日本語訳️️️",
+   "forwarded_from_id": "channel1501671025",
+   "saved_from": "WeTheMedia🇯🇵日本語訳️️️",
+   "text": [
+    "WTM投稿者：管理者無記名投稿\n転送元チャネル：Bitcoin\n\n(翻訳)\n速報：🇮🇷 ブルームバーグは、イランがホルムズ海峡を通過しようとする船運会社のためのビットコインバックの保険サービスを開始したと報じています。  \n\n100億ドル以上の収益が見込めると報じられています 🤯  \n\n出典：",
+    {
+     "type": "link",
+     "text": "https://x.com/BitcoinMagazine/status/2056354484532428877?s=20"
+    },
+    "\n\n(Orinial text starting with: JUST IN: 🇮🇷 Bloomberg reports that Iran started a ...)\n--------\n投稿日時: 日本 2026年5月19日 02:11:49, NY 5月18日 13:11:49, CEST 5月18日 19:11:49\n",
+    {
+     "type": "link",
+     "text": "https://t.me/s/WeTheMedia/141516"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "👉",
+     "href": "https://t.me/WeTheMedia/141516"
+    },
+    {
+     "type": "text_link",
+     "text": "🔗",
+     "href": "https://t.me/WTM_deepl_jp/218207"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "WTM投稿者：管理者無記名投稿\n転送元チャネル：Bitcoin\n\n(翻訳)\n速報：🇮🇷 ブルームバーグは、イランがホルムズ海峡を通過しようとする船運会社のためのビットコインバックの保険サービスを開始したと報じています。  \n\n100億ドル以上の収益が見込めると報じられています 🤯  \n\n出典："
+    },
+    {
+     "type": "link",
+     "text": "https://x.com/BitcoinMagazine/status/2056354484532428877?s=20"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n(Orinial text starting with: JUST IN: 🇮🇷 Bloomberg reports that Iran started a ...)\n--------\n投稿日時: 日本 2026年5月19日 02:11:49, NY 5月18日 13:11:49, CEST 5月18日 19:11:49\n"
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/s/WeTheMedia/141516"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "👉",
+     "href": "https://t.me/WeTheMedia/141516"
+    },
+    {
+     "type": "text_link",
+     "text": "🔗",
+     "href": "https://t.me/WTM_deepl_jp/218207"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 188480,
+   "type": "message",
+   "date": "2026-05-18T11:15:39",
+   "date_unixtime": "1779124539",
+   "from": "WeTheMedia_jp日本語訳チャット",
+   "from_id": "channel1613378190",
+   "reply_to_message_id": 188478,
+   "text": "OCR result (Gemma4-26B):\n\nIran has started a Bitcoin-backed insurance service for shipping companies that want to transit the Strait of Hormuz, the semi-official Fars news agency reported, citing documents obtained from Iran's Ministry of Economy and Financial Affairs.\n\nDubbed Hormuz Safe, the Iranian government says it could generate more than $10 billion in revenue for the Islamic Republic, Fars reported, without giving a time frame or a breakdown of how the service would work.\n\n要約 (Gemma4-26B)：\nイラン政府は、ホルムズ海峡を通過する海運会社を対象に、ビットコインを裏付けとした新たな保険サービス「Hormuz Safe」を開始したことが報じられた。イラン経済金融省の文書によると、このサービスによって同国は100億ドルを超える収益を得られる可能性があるという。具体的な運用メカニズムや実施時期の詳細は明らかにされていないが、地政学的に極めて重要な海域において、暗号資産を活用した新たな経済的試みとして注目を集めている。",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "OCR result (Gemma4-26B):\n\nIran has started a Bitcoin-backed insurance service for shipping companies that want to transit the Strait of Hormuz, the semi-official Fars news agency reported, citing documents obtained from Iran's Ministry of Economy and Financial Affairs.\n\nDubbed Hormuz Safe, the Iranian government says it could generate more than $10 billion in revenue for the Islamic Republic, Fars reported, without giving a time frame or a breakdown of how the service would work.\n\n要約 (Gemma4-26B)：\nイラン政府は、ホルムズ海峡を通過する海運会社を対象に、ビットコインを裏付けとした新たな保険サービス「Hormuz Safe」を開始したことが報じられた。イラン経済金融省の文書によると、このサービスによって同国は100億ドルを超える収益を得られる可能性があるという。具体的な運用メカニズムや実施時期の詳細は明らかにされていないが、地政学的に極めて重要な海域において、暗号資産を活用した新たな経済的試みとして注目を集めている。"
+    }
+   ]
+  },
+  {
+   "id": 188481,
+   "type": "message",
+   "date": "2026-05-18T11:45:07",
+   "date_unixtime": "1779126307",
+   "from": "WeTheMedia🇯🇵日本語訳️️️",
+   "from_id": "channel1501671025",
+   "forwarded_from": "Eric Daugherty",
+   "forwarded_from_id": "channel3251174282",
+   "saved_from": "WeTheMedia🇯🇵日本語訳️️️",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "video.mp4",
+   "file_size": 3338226,
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "thumbnail_file_size": 22334,
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 34,
+   "width": 1440,
+   "height": 1080,
+   "text": "🚨 NOW: President Trump just dropped this truth bomb on JB Pritzker and Brandon Johnson\n\n\"DUMB AND DUMBER\"\n\"THE ILLINOIS GOVERNMENT\" \n\nBoth of them are pure TRAITORS who are allowing the people of Illinois and Chicago to be pillaged!\n\nUtter FAILURES.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🚨 NOW: President Trump just dropped this truth bomb on JB Pritzker and Brandon Johnson\n\n\"DUMB AND DUMBER\"\n\"THE ILLINOIS GOVERNMENT\" \n\nBoth of them are pure TRAITORS who are allowing the people of Illinois and Chicago to be pillaged!\n\nUtter FAILURES."
+    }
+   ]
+  },
+  {
+   "id": 188482,
+   "type": "message",
+   "date": "2026-05-18T11:45:14",
+   "date_unixtime": "1779126314",
+   "edited": "2026-05-18T11:45:16",
+   "edited_unixtime": "1779126316",
+   "from": "WeTheMedia🇯🇵日本語訳️️️",
+   "from_id": "channel1501671025",
+   "forwarded_from": "WeTheMedia🇯🇵日本語訳️️️",
+   "forwarded_from_id": "channel1501671025",
+   "saved_from": "WeTheMedia🇯🇵日本語訳️️️",
+   "text": [
+    "WTM投稿者：管理者無記名投稿\n転送元チャネル：Eric Daugherty\n\n(翻訳)\n🚨 今：トランプ大統領は、JB・プリッツカーとブランドン・ジョンソンにこの真実の爆弾を落とした\n\n「バカとバカ」\n「イリノイ政府」\n\n二人ともは、イリノイとシカゴの人々が略奪されるのを許している真の裏切り者だ！\n\n完全な失敗作だ。\n\n(Orinial text starting with: 🚨 NOW: President Trump just dropped this truth bom...)\n--------\n投稿日時: 日本 2026年5月19日 02:44:01, NY 5月18日 13:44:01, CEST 5月18日 19:44:01\n",
+    {
+     "type": "link",
+     "text": "https://t.me/s/WeTheMedia/141517"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "👉",
+     "href": "https://t.me/WeTheMedia/141517"
+    },
+    {
+     "type": "text_link",
+     "text": "🔗",
+     "href": "https://t.me/WTM_deepl_jp/218209"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "WTM投稿者：管理者無記名投稿\n転送元チャネル：Eric Daugherty\n\n(翻訳)\n🚨 今：トランプ大統領は、JB・プリッツカーとブランドン・ジョンソンにこの真実の爆弾を落とした\n\n「バカとバカ」\n「イリノイ政府」\n\n二人ともは、イリノイとシカゴの人々が略奪されるのを許している真の裏切り者だ！\n\n完全な失敗作だ。\n\n(Orinial text starting with: 🚨 NOW: President Trump just dropped this truth bom...)\n--------\n投稿日時: 日本 2026年5月19日 02:44:01, NY 5月18日 13:44:01, CEST 5月18日 19:44:01\n"
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/s/WeTheMedia/141517"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "👉",
+     "href": "https://t.me/WeTheMedia/141517"
+    },
+    {
+     "type": "text_link",
+     "text": "🔗",
+     "href": "https://t.me/WTM_deepl_jp/218209"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 188483,
+   "type": "message",
+   "date": "2026-05-18T11:45:43",
+   "date_unixtime": "1779126343",
+   "from": "WeTheMedia_jp日本語訳チャット",
+   "from_id": "channel1613378190",
+   "reply_to_message_id": 188481,
+   "text": "00:00  -->  00:32\n [SPEAKER_00]: A little bit of a Pritzker joke. I was going to talk about Pritzker in size, but when I talk about Pritzker, I get angry because he's not letting us do the job. So I'm not going to tell my Pritzker joke. They have a very cute little joke, you know. Some speech writer wrote some joke about his weight. But I would never want to talk about his weight. I don't talk about people being fat. I refuse to talk about the fact that he's a fat slob. I don't mention it. On a more serious note, as we gather around the dinner table, I'd like to lose a few pounds, too, by the way.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "00:00  -->  00:32\n [SPEAKER_00]: A little bit of a Pritzker joke. I was going to talk about Pritzker in size, but when I talk about Pritzker, I get angry because he's not letting us do the job. So I'm not going to tell my Pritzker joke. They have a very cute little joke, you know. Some speech writer wrote some joke about his weight. But I would never want to talk about his weight. I don't talk about people being fat. I refuse to talk about the fact that he's a fat slob. I don't mention it. On a more serious note, as we gather around the dinner table, I'd like to lose a few pounds, too, by the way."
+    }
+   ]
+  },
+  {
+   "id": 188484,
+   "type": "message",
+   "date": "2026-05-18T11:46:12",
+   "date_unixtime": "1779126372",
+   "from": "WeTheMedia_jp日本語訳チャット",
+   "from_id": "channel1613378190",
+   "reply_to_message_id": 188481,
+   "text": [
+    "00:00  -->  00:32\n [SPEAKER_00]: ブリッツカーに関するジョークを少し。ブリッツカーの体型について話そうと思っていたのですが、彼のことを話そうとすると腹が立ってしまうんです。なぜなら、彼が私たちの仕事をさせてくれないからです。なので、ブリッツカーのジョークは話さないことにします。ほら、とても可愛らしいジョークがあるんですよ。スピーチライターの誰かが、彼の体重についてのジョークを書いたものです。ですが、私は彼の体重について話したいなんて全く思いません。私は人が太っていることについて話したりしません。彼がデブでだらしない男だという事実について話すのは御免です。それには触れません。もっと真面目な話になりますが、ちなみに、私たちが食卓を囲む際、私も少し痩せたいと思っています。\n翻訳 Gemma4-26B\n",
+    {
+     "type": "link",
+     "text": "https://t.me/WTM_deepl_jp/218208?comment=188483"
+    },
+    " 1/1"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "00:00  -->  00:32\n [SPEAKER_00]: ブリッツカーに関するジョークを少し。ブリッツカーの体型について話そうと思っていたのですが、彼のことを話そうとすると腹が立ってしまうんです。なぜなら、彼が私たちの仕事をさせてくれないからです。なので、ブリッツカーのジョークは話さないことにします。ほら、とても可愛らしいジョークがあるんですよ。スピーチライターの誰かが、彼の体重についてのジョークを書いたものです。ですが、私は彼の体重について話したいなんて全く思いません。私は人が太っていることについて話したりしません。彼がデブでだらしない男だという事実について話すのは御免です。それには触れません。もっと真面目な話になりますが、ちなみに、私たちが食卓を囲む際、私も少し痩せたいと思っています。\n翻訳 Gemma4-26B\n"
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/WTM_deepl_jp/218208?comment=188483"
+    },
+    {
+     "type": "plain",
+     "text": " 1/1"
+    }
+   ]
+  },
+  {
+   "id": 188486,
+   "type": "message",
+   "date": "2026-05-18T12:05:14",
+   "date_unixtime": "1779127514",
+   "edited": "2026-05-18T12:05:16",
+   "edited_unixtime": "1779127516",
+   "from": "WeTheMedia🇯🇵日本語訳️️️",
+   "from_id": "channel1501671025",
+   "forwarded_from": "WeTheMedia🇯🇵日本語訳️️️",
+   "forwarded_from_id": "channel1501671025",
+   "saved_from": "WeTheMedia🇯🇵日本語訳️️️",
+   "text": [
+    "WTM投稿者：管理者無記名投稿\n転送元チャネル：Watcher Guru\n\n(翻訳)\n",
+    {
+     "type": "bold",
+     "text": "速報："
+    },
+    " 🇺🇸 ケヴィン・ウォーシュ氏は金曜日にFED議長に就任し、ジェローム・パウエル氏に正式に後任となる予定です。 \n\n",
+    {
+     "type": "mention",
+     "text": "@WatcherGuru"
+    },
+    "\n\n(Orinial text starting with: ",
+    {
+     "type": "bold",
+     "text": "JUST IN:"
+    },
+    " 🇺🇸 Kevin Warsh to be sworn in as Fed Chai...)\n--------\n投稿日時: 日本 2026年5月19日 03:02:02, NY 5月18日 14:02:02, CEST 5月18日 20:02:02\n",
+    {
+     "type": "link",
+     "text": "https://t.me/s/WeTheMedia/141518"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "👉",
+     "href": "https://t.me/WeTheMedia/141518"
+    },
+    {
+     "type": "text_link",
+     "text": "🔗",
+     "href": "https://t.me/WTM_deepl_jp/218211"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "WTM投稿者：管理者無記名投稿\n転送元チャネル：Watcher Guru\n\n(翻訳)\n"
+    },
+    {
+     "type": "bold",
+     "text": "速報："
+    },
+    {
+     "type": "plain",
+     "text": " 🇺🇸 ケヴィン・ウォーシュ氏は金曜日にFED議長に就任し、ジェローム・パウエル氏に正式に後任となる予定です。 \n\n"
+    },
+    {
+     "type": "mention",
+     "text": "@WatcherGuru"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n(Orinial text starting with: "
+    },
+    {
+     "type": "bold",
+     "text": "JUST IN:"
+    },
+    {
+     "type": "plain",
+     "text": " 🇺🇸 Kevin Warsh to be sworn in as Fed Chai...)\n--------\n投稿日時: 日本 2026年5月19日 03:02:02, NY 5月18日 14:02:02, CEST 5月18日 20:02:02\n"
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/s/WeTheMedia/141518"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "👉",
+     "href": "https://t.me/WeTheMedia/141518"
+    },
+    {
+     "type": "text_link",
+     "text": "🔗",
+     "href": "https://t.me/WTM_deepl_jp/218211"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 188487,
+   "type": "message",
+   "date": "2026-05-18T13:10:33",
+   "date_unixtime": "1779131433",
+   "edited": "2026-05-18T13:10:35",
+   "edited_unixtime": "1779131435",
+   "from": "WeTheMedia🇯🇵日本語訳️️️",
+   "from_id": "channel1501671025",
+   "forwarded_from": "WeTheMedia🇯🇵日本語訳️️️",
+   "forwarded_from_id": "channel1501671025",
+   "saved_from": "WeTheMedia🇯🇵日本語訳️️️",
+   "text": [
+    "WTM投稿者：管理者無記名投稿\n転送元チャネル：Donald J. Trump\n\nI have been asked by the Emir of Qatar, Tamim bin Hamad Al Thani, the Crown Prince of Saudi Arabia, Mohammed bin Salman Al Saud, and the President of the United Arab Emirates, Mohamed bin Zayed Al Nahyan, to hold off on our planned Military attack of the Islamic Republic of Iran, which was scheduled for tomorrow, in that serious negotiations are now taking place, and that, in their opinion, as Great Leaders and Allies, a Deal will be made, which will be very acceptable to the United States of America, as well as all Countries in the Middle East, and beyond. This Deal will include, importantly, NO NUCLEAR WEAPONS FOR IRAN! Based on my respect for the above mentioned Leaders, I have instructed Secretary of War, Pete Hegseth, The Chairman of The Joint Chiefs of Staff, General Daniel Caine, and The United States Military, that we will NOT be doing the scheduled attack of Iran tomorrow, but have further instructed them to be prepared to go forward with a full, large scale assault of Iran, on a moment’s notice, in the event that an acceptable Deal is not reached. Thank you for your attention to this matter! President DONALD J. TRUMP\n\n(翻訳)\nカタールのエミル、タミム・ビン・ハマド・アル・タニ、サウジアラビアの王位継承者、モハメド・ビン・サルマン・アル・サウド、そしてアラブ首長国連邦の大統領、モハメド・ビン・ザイエド・アル・ナヒヤンから、イラン・イスラム共和国に対する明日予定されていた軍事攻撃を延期するように求められました。これは、深刻な交渉が行われており、彼らの見解では、偉大な指導者や同盟国としての立場から、米国や中東諸国をはじめ、すべての国に受け入れられる合意が成立すると考えています。この合意には、イランの核兵器開発を禁止することが重要です。上記の指導者たちを尊敬し、私は戦争長官のピート・ヘグセス、統合参謀本部長のダニエル・ケイン将軍、そして米国軍に指示を出し、明日の予定されていたイラン攻撃は行わないが、受け入れられる合意が成立しない場合には、即刻イランに対して大規模な攻撃を開始する準備をするようにしました。この件にご注意をお願いします！ドナルド・J・トランプ大統領\n--------\n投稿日時: 日本 2026年5月19日 04:05:17, NY 5月18日 15:05:17, CEST 5月18日 21:05:17\n",
+    {
+     "type": "link",
+     "text": "https://t.me/s/WeTheMedia/141520"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "👉",
+     "href": "https://t.me/WeTheMedia/141520"
+    },
+    {
+     "type": "text_link",
+     "text": "🔗",
+     "href": "https://t.me/WTM_deepl_jp/218212"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "WTM投稿者：管理者無記名投稿\n転送元チャネル：Donald J. Trump\n\nI have been asked by the Emir of Qatar, Tamim bin Hamad Al Thani, the Crown Prince of Saudi Arabia, Mohammed bin Salman Al Saud, and the President of the United Arab Emirates, Mohamed bin Zayed Al Nahyan, to hold off on our planned Military attack of the Islamic Republic of Iran, which was scheduled for tomorrow, in that serious negotiations are now taking place, and that, in their opinion, as Great Leaders and Allies, a Deal will be made, which will be very acceptable to the United States of America, as well as all Countries in the Middle East, and beyond. This Deal will include, importantly, NO NUCLEAR WEAPONS FOR IRAN! Based on my respect for the above mentioned Leaders, I have instructed Secretary of War, Pete Hegseth, The Chairman of The Joint Chiefs of Staff, General Daniel Caine, and The United States Military, that we will NOT be doing the scheduled attack of Iran tomorrow, but have further instructed them to be prepared to go forward with a full, large scale assault of Iran, on a moment’s notice, in the event that an acceptable Deal is not reached. Thank you for your attention to this matter! President DONALD J. TRUMP\n\n(翻訳)\nカタールのエミル、タミム・ビン・ハマド・アル・タニ、サウジアラビアの王位継承者、モハメド・ビン・サルマン・アル・サウド、そしてアラブ首長国連邦の大統領、モハメド・ビン・ザイエド・アル・ナヒヤンから、イラン・イスラム共和国に対する明日予定されていた軍事攻撃を延期するように求められました。これは、深刻な交渉が行われており、彼らの見解では、偉大な指導者や同盟国としての立場から、米国や中東諸国をはじめ、すべての国に受け入れられる合意が成立すると考えています。この合意には、イランの核兵器開発を禁止することが重要です。上記の指導者たちを尊敬し、私は戦争長官のピート・ヘグセス、統合参謀本部長のダニエル・ケイン将軍、そして米国軍に指示を出し、明日の予定されていたイラン攻撃は行わないが、受け入れられる合意が成立しない場合には、即刻イランに対して大規模な攻撃を開始する準備をするようにしました。この件にご注意をお願いします！ドナルド・J・トランプ大統領\n--------\n投稿日時: 日本 2026年5月19日 04:05:17, NY 5月18日 15:05:17, CEST 5月18日 21:05:17\n"
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/s/WeTheMedia/141520"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "👉",
+     "href": "https://t.me/WeTheMedia/141520"
+    },
+    {
+     "type": "text_link",
+     "text": "🔗",
+     "href": "https://t.me/WTM_deepl_jp/218212"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 188488,
+   "type": "message",
+   "date": "2026-05-18T13:20:37",
+   "date_unixtime": "1779132037",
+   "from": "WeTheMedia🇯🇵日本語訳️️️",
+   "from_id": "channel1501671025",
+   "forwarded_from": "We The Media",
+   "forwarded_from_id": "channel1161789591",
+   "saved_from": "WeTheMedia🇯🇵日本語訳️️️",
+   "photo": "photos/photo_19916@18-05-2026_13-20-37.jpg",
+   "photo_file_size": 112413,
+   "width": 1196,
+   "height": 1280,
+   "text": [
+    "A California woman has been charged with illegally paying people to register to vote in federal elections - even falsely listing her own former residence for California mail-out ballots for homeless individuals without a mailing address.\n\nRead the DOJ Press Release: ",
+    {
+     "type": "link",
+     "text": "https://www.justice.gov/opa/pr/california-woman-federally-charged-paying-individuals-including-homeless-people-las-skid-row"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "@"
+    },
+    {
+     "type": "text_link",
+     "text": "WeTheMedia",
+     "href": "https://t.me/WeTheMedia"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "A California woman has been charged with illegally paying people to register to vote in federal elections - even falsely listing her own former residence for California mail-out ballots for homeless individuals without a mailing address.\n\nRead the DOJ Press Release: "
+    },
+    {
+     "type": "link",
+     "text": "https://www.justice.gov/opa/pr/california-woman-federally-charged-paying-individuals-including-homeless-people-las-skid-row"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "@"
+    },
+    {
+     "type": "text_link",
+     "text": "WeTheMedia",
+     "href": "https://t.me/WeTheMedia"
+    }
+   ]
+  },
+  {
+   "id": 188489,
+   "type": "message",
+   "date": "2026-05-18T13:20:44",
+   "date_unixtime": "1779132044",
+   "edited": "2026-05-18T13:20:46",
+   "edited_unixtime": "1779132046",
+   "from": "WeTheMedia🇯🇵日本語訳️️️",
+   "from_id": "channel1501671025",
+   "forwarded_from": "WeTheMedia🇯🇵日本語訳️️️",
+   "forwarded_from_id": "channel1501671025",
+   "saved_from": "WeTheMedia🇯🇵日本語訳️️️",
+   "text": [
+    "WTM投稿者：管理者無記名投稿\n\n(翻訳)\nカリフォルニア州の女性が連邦選挙で投票登録のために人々に違法に金を支払った罪で起訴されました。さらに、住所のないホームレスの個人向けのカリフォルニア州の郵送投票用紙に自分の旧住所を虚偽に記載していたことも明らかになりました。  \n\n司法省のプレスリリースを読む: ",
+    {
+     "type": "link",
+     "text": "https://www.justice.gov/opa/pr/california-woman-federally-charged-paying-individuals-including-homeless-people-las-skid-row"
+    },
+    "  \n\n",
+    {
+     "type": "bold",
+     "text": "@"
+    },
+    {
+     "type": "text_link",
+     "text": "WeTheMedia",
+     "href": "https://t.me/WeTheMedia"
+    },
+    "\n\n(Orinial text starting with: A California woman has been charged with illegally...)\n--------\n投稿日時: 日本 2026年5月19日 04:18:31, NY 5月18日 15:18:31, CEST 5月18日 21:18:31\n",
+    {
+     "type": "link",
+     "text": "https://t.me/s/WeTheMedia/141521"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "👉",
+     "href": "https://t.me/WeTheMedia/141521"
+    },
+    {
+     "type": "text_link",
+     "text": "🔗",
+     "href": "https://t.me/WTM_deepl_jp/218214"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "WTM投稿者：管理者無記名投稿\n\n(翻訳)\nカリフォルニア州の女性が連邦選挙で投票登録のために人々に違法に金を支払った罪で起訴されました。さらに、住所のないホームレスの個人向けのカリフォルニア州の郵送投票用紙に自分の旧住所を虚偽に記載していたことも明らかになりました。  \n\n司法省のプレスリリースを読む: "
+    },
+    {
+     "type": "link",
+     "text": "https://www.justice.gov/opa/pr/california-woman-federally-charged-paying-individuals-including-homeless-people-las-skid-row"
+    },
+    {
+     "type": "plain",
+     "text": "  \n\n"
+    },
+    {
+     "type": "bold",
+     "text": "@"
+    },
+    {
+     "type": "text_link",
+     "text": "WeTheMedia",
+     "href": "https://t.me/WeTheMedia"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n(Orinial text starting with: A California woman has been charged with illegally...)\n--------\n投稿日時: 日本 2026年5月19日 04:18:31, NY 5月18日 15:18:31, CEST 5月18日 21:18:31\n"
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/s/WeTheMedia/141521"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "👉",
+     "href": "https://t.me/WeTheMedia/141521"
+    },
+    {
+     "type": "text_link",
+     "text": "🔗",
+     "href": "https://t.me/WTM_deepl_jp/218214"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 188490,
+   "type": "message",
+   "date": "2026-05-18T13:20:58",
+   "date_unixtime": "1779132058",
+   "edited": "2026-05-18T13:21:00",
+   "edited_unixtime": "1779132060",
+   "from": "WeTheMedia🇯🇵日本語訳️️️",
+   "from_id": "channel1501671025",
+   "forwarded_from": "WeTheMedia🇯🇵日本語訳️️️",
+   "forwarded_from_id": "channel1501671025",
+   "saved_from": "WeTheMedia🇯🇵日本語訳️️️",
+   "text": [
+    "WTM投稿者：GMONEY ₿\n転送元チャネル：₿ullion, ₿itcoin & Anti-Semitism w/ GMONEY\n\n",
+    {
+     "type": "link",
+     "text": "https://fixupx.com/Bitcoin_Teddy/status/2056345304681545850?s=20"
+    },
+    "\n\n(翻訳)\n",
+    {
+     "type": "link",
+     "text": "https://fixupx.com/Bitcoin_Teddy/status/2056345304681545850?s=20"
+    },
+    "\n--------\n投稿日時: 日本 2026年5月19日 04:19:39, NY 5月18日 15:19:39, CEST 5月18日 21:19:39\n",
+    {
+     "type": "link",
+     "text": "https://t.me/s/WeTheMedia/141522"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "👉",
+     "href": "https://t.me/WeTheMedia/141522"
+    },
+    {
+     "type": "text_link",
+     "text": "🔗",
+     "href": "https://t.me/WTM_deepl_jp/218215"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "WTM投稿者：GMONEY ₿\n転送元チャネル：₿ullion, ₿itcoin & Anti-Semitism w/ GMONEY\n\n"
+    },
+    {
+     "type": "link",
+     "text": "https://fixupx.com/Bitcoin_Teddy/status/2056345304681545850?s=20"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n(翻訳)\n"
+    },
+    {
+     "type": "link",
+     "text": "https://fixupx.com/Bitcoin_Teddy/status/2056345304681545850?s=20"
+    },
+    {
+     "type": "plain",
+     "text": "\n--------\n投稿日時: 日本 2026年5月19日 04:19:39, NY 5月18日 15:19:39, CEST 5月18日 21:19:39\n"
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/s/WeTheMedia/141522"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "👉",
+     "href": "https://t.me/WeTheMedia/141522"
+    },
+    {
+     "type": "text_link",
+     "text": "🔗",
+     "href": "https://t.me/WTM_deepl_jp/218215"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 188491,
+   "type": "message",
+   "date": "2026-05-18T13:20:59",
+   "date_unixtime": "1779132059",
+   "from": "WeTheMedia_jp日本語訳チャット",
+   "from_id": "channel1613378190",
+   "reply_to_message_id": 188488,
+   "text": [
+    "OCR result (unsloth/gemma-4-E4B-it-GGUF:Q5_K_M):\n\nAfter an FBI investigation, a California woman has been charged with illegally paying people to register to vote in federal elections - even falsely listing her own former residence for California mail-out ballots for homeless individuals without a mailing address. ",
+    {
+     "type": "link",
+     "text": "justice.gov/opa/pr/califor"
+    },
+    "...\n\nPRESS RELEASE\n\nCalifornia Woman Federally Charged with Paying Individuals, Including Homeless People on L.A.'s Skid Row, to Register to Vote\n\nかなり怪しい要約 (unsloth/gemma-4-E4B-it-GGUF:Q5_K_M)：\nカリフォルニア州の女性が、連邦選挙での投票登録に個人に金銭を支払った容疑で起訴されました。この容疑は、特に住所のないホームレスの人々（ロサンゼルスのスキッドロウ在住者など）を対象に、自身の以前の住所を虚偽に記載して郵送投票の手続きをさせた点が含まれています。FBIの捜査により、投票登録を金銭で賄う違法行為が明らかになりました。"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "OCR result (unsloth/gemma-4-E4B-it-GGUF:Q5_K_M):\n\nAfter an FBI investigation, a California woman has been charged with illegally paying people to register to vote in federal elections - even falsely listing her own former residence for California mail-out ballots for homeless individuals without a mailing address. "
+    },
+    {
+     "type": "link",
+     "text": "justice.gov/opa/pr/califor"
+    },
+    {
+     "type": "plain",
+     "text": "...\n\nPRESS RELEASE\n\nCalifornia Woman Federally Charged with Paying Individuals, Including Homeless People on L.A.'s Skid Row, to Register to Vote\n\nかなり怪しい要約 (unsloth/gemma-4-E4B-it-GGUF:Q5_K_M)：\nカリフォルニア州の女性が、連邦選挙での投票登録に個人に金銭を支払った容疑で起訴されました。この容疑は、特に住所のないホームレスの人々（ロサンゼルスのスキッドロウ在住者など）を対象に、自身の以前の住所を虚偽に記載して郵送投票の手続きをさせた点が含まれています。FBIの捜査により、投票登録を金銭で賄う違法行為が明らかになりました。"
+    }
+   ]
+  },
+  {
+   "id": 188492,
+   "type": "message",
+   "date": "2026-05-18T14:05:38",
+   "date_unixtime": "1779134738",
+   "from": "WeTheMedia🇯🇵日本語訳️️️",
+   "from_id": "channel1501671025",
+   "forwarded_from": "We The Media",
+   "forwarded_from_id": "channel1161789591",
+   "saved_from": "WeTheMedia🇯🇵日本語訳️️️",
+   "photo": "photos/photo_19917@18-05-2026_14-05-38.jpg",
+   "photo_file_size": 191912,
+   "width": 1024,
+   "height": 1280,
+   "text": [
+    "The bodies of four remaining Italian divers were found Monday in the Maldives, four days after they went missing while exploring an underwater cave.\n\nAn elite team of three expert divers from Finland located the bodies of Monica Montefalcone, 52, her daughter Giorgia Sommacal, 20, Muriel Oddenino, 31, and Federico Gualtieri, 31, Italy’s foreign ministry said.\n\nThe group was found inside Thinwana Kandu cave, also known as “shark cave,” by the squad, which was assembled in 48 hours by the group Divers Alert Network Europe.\n\n",
+    {
+     "type": "text_link",
+     "text": "Link",
+     "href": "https://nypost.com/2026/05/18/world-news/remaining-bodies-of-missing-tourists-found-in-shark-cave-after-maldives-worst-ever-diving-disaster/?utm_source=facebook&utm_campaign=nypost&sr_share=facebook&utm_medium=social&utm_campaign=nypost&sr_share=facebook&utm_source=facebook&utm_medium=social&fbclid=IwdGRjcAR4ThBjbGNrBHhNu2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHpcL3xSvS9-UtxCNgwtOVW-0Mo_XTm3sclAo29YXSLHQHKifr-R11gktgT02_aem_nC9297vOtsxe0gOaZ_aZSw"
+    },
+    "\n\n",
+    {
+     "type": "text_link",
+     "text": "@WeTheMedia",
+     "href": "https://t.me/WeTheMedia"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "The bodies of four remaining Italian divers were found Monday in the Maldives, four days after they went missing while exploring an underwater cave.\n\nAn elite team of three expert divers from Finland located the bodies of Monica Montefalcone, 52, her daughter Giorgia Sommacal, 20, Muriel Oddenino, 31, and Federico Gualtieri, 31, Italy’s foreign ministry said.\n\nThe group was found inside Thinwana Kandu cave, also known as “shark cave,” by the squad, which was assembled in 48 hours by the group Divers Alert Network Europe.\n\n"
+    },
+    {
+     "type": "text_link",
+     "text": "Link",
+     "href": "https://nypost.com/2026/05/18/world-news/remaining-bodies-of-missing-tourists-found-in-shark-cave-after-maldives-worst-ever-diving-disaster/?utm_source=facebook&utm_campaign=nypost&sr_share=facebook&utm_medium=social&utm_campaign=nypost&sr_share=facebook&utm_source=facebook&utm_medium=social&fbclid=IwdGRjcAR4ThBjbGNrBHhNu2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHpcL3xSvS9-UtxCNgwtOVW-0Mo_XTm3sclAo29YXSLHQHKifr-R11gktgT02_aem_nC9297vOtsxe0gOaZ_aZSw"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "text_link",
+     "text": "@WeTheMedia",
+     "href": "https://t.me/WeTheMedia"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 188493,
+   "type": "message",
+   "date": "2026-05-18T14:05:45",
+   "date_unixtime": "1779134745",
+   "edited": "2026-05-18T14:05:47",
+   "edited_unixtime": "1779134747",
+   "from": "WeTheMedia🇯🇵日本語訳️️️",
+   "from_id": "channel1501671025",
+   "forwarded_from": "WeTheMedia🇯🇵日本語訳️️️",
+   "forwarded_from_id": "channel1501671025",
+   "saved_from": "WeTheMedia🇯🇵日本語訳️️️",
+   "text": [
+    "WTM投稿者：管理者無記名投稿\n\n(翻訳)\nマルディブで月曜日に残りの4人のイタリア人ダイバーの遺体が発見された。彼らは水中洞窟を探索中に行方不明になってから4日目だった。\n\nイタリア外務省によれば、フィンランドの3人の専門ダイバーからなる精鋭チームが、52歳のモニカ・モンテファルコーネ、20歳の彼女の娘ジョルジア・ソマカル、31歳のムリエル・オッデニーノ、31歳のフェデリコ・グアルティエリの遺体を発見したという。\n\nこのグループは、48時間で組織されたダイバーズ・アラート・ネットワーク・ヨーロッパによるチームによってシンワナ・カンデュ洞窟（別名「サメの洞窟」）の中で発見された。\n\n",
+    {
+     "type": "text_link",
+     "text": "リンク",
+     "href": "https://nypost.com/2026/05/18/world-news/remaining-bodies-of-missing-tourists-found-in-shark-cave-after-maldives-worst-ever-diving-disaster/?utm_source=facebook&utm_campaign=nypost&sr_share=facebook&utm_medium=social&utm_campaign=nypost&sr_share=facebook&utm_source=facebook&utm_medium=social&fbclid=IwdGRjcAR4ThBjbGNrBHhNu2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHpcL3xSvS9-UtxCNgwtOVW-0Mo_XTm3sclAo29YXSLHQHKifr-R11gktgT02_aem_nC9297vOtsxe0gOaZ_aZSw"
+    },
+    "\n\n",
+    {
+     "type": "text_link",
+     "text": "@WeTheMedia",
+     "href": "https://t.me/WeTheMedia"
+    },
+    "\n\n(Orinial text starting with: The bodies of four remaining Italian divers were f...)\n--------\n投稿日時: 日本 2026年5月19日 04:55:57, NY 5月18日 15:55:57, CEST 5月18日 21:55:57\n",
+    {
+     "type": "link",
+     "text": "https://t.me/s/WeTheMedia/141523"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "👉",
+     "href": "https://t.me/WeTheMedia/141523"
+    },
+    {
+     "type": "text_link",
+     "text": "🔗",
+     "href": "https://t.me/WTM_deepl_jp/218217"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "WTM投稿者：管理者無記名投稿\n\n(翻訳)\nマルディブで月曜日に残りの4人のイタリア人ダイバーの遺体が発見された。彼らは水中洞窟を探索中に行方不明になってから4日目だった。\n\nイタリア外務省によれば、フィンランドの3人の専門ダイバーからなる精鋭チームが、52歳のモニカ・モンテファルコーネ、20歳の彼女の娘ジョルジア・ソマカル、31歳のムリエル・オッデニーノ、31歳のフェデリコ・グアルティエリの遺体を発見したという。\n\nこのグループは、48時間で組織されたダイバーズ・アラート・ネットワーク・ヨーロッパによるチームによってシンワナ・カンデュ洞窟（別名「サメの洞窟」）の中で発見された。\n\n"
+    },
+    {
+     "type": "text_link",
+     "text": "リンク",
+     "href": "https://nypost.com/2026/05/18/world-news/remaining-bodies-of-missing-tourists-found-in-shark-cave-after-maldives-worst-ever-diving-disaster/?utm_source=facebook&utm_campaign=nypost&sr_share=facebook&utm_medium=social&utm_campaign=nypost&sr_share=facebook&utm_source=facebook&utm_medium=social&fbclid=IwdGRjcAR4ThBjbGNrBHhNu2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHpcL3xSvS9-UtxCNgwtOVW-0Mo_XTm3sclAo29YXSLHQHKifr-R11gktgT02_aem_nC9297vOtsxe0gOaZ_aZSw"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "text_link",
+     "text": "@WeTheMedia",
+     "href": "https://t.me/WeTheMedia"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n(Orinial text starting with: The bodies of four remaining Italian divers were f...)\n--------\n投稿日時: 日本 2026年5月19日 04:55:57, NY 5月18日 15:55:57, CEST 5月18日 21:55:57\n"
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/s/WeTheMedia/141523"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "👉",
+     "href": "https://t.me/WeTheMedia/141523"
+    },
+    {
+     "type": "text_link",
+     "text": "🔗",
+     "href": "https://t.me/WTM_deepl_jp/218217"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 188494,
+   "type": "message",
+   "date": "2026-05-18T14:06:04",
+   "date_unixtime": "1779134764",
+   "from": "WeTheMedia_jp日本語訳チャット",
+   "from_id": "channel1613378190",
+   "reply_to_message_id": 188492,
+   "text": "OCR result (unsloth/gemma-4-E4B-it-GGUF:Q5_K_M):\n\nBREAKING\nRemaining bodies of missing tourists found in 'shark cave' after Maldives' worst-ever diving disaster\nCOAST GUARD\nNEW YORK POST\n\nかなり怪しい要約 (unsloth/gemma-4-E4B-it-GGUF:Q5_K_M)：\nモルディブの「シャークケイブ」で、行方不明だったイタリア人ダイバー4名の遺体が発見されました。フィンランドの専門チームが救助活動を行いました。",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "OCR result (unsloth/gemma-4-E4B-it-GGUF:Q5_K_M):\n\nBREAKING\nRemaining bodies of missing tourists found in 'shark cave' after Maldives' worst-ever diving disaster\nCOAST GUARD\nNEW YORK POST\n\nかなり怪しい要約 (unsloth/gemma-4-E4B-it-GGUF:Q5_K_M)：\nモルディブの「シャークケイブ」で、行方不明だったイタリア人ダイバー4名の遺体が発見されました。フィンランドの専門チームが救助活動を行いました。"
+    }
+   ]
+  },
+  {
+   "id": 188495,
+   "type": "message",
+   "date": "2026-05-18T14:10:25",
+   "date_unixtime": "1779135025",
+   "edited": "2026-05-18T14:10:27",
+   "edited_unixtime": "1779135027",
+   "from": "WeTheMedia🇯🇵日本語訳️️️",
+   "from_id": "channel1501671025",
+   "forwarded_from": "WeTheMedia🇯🇵日本語訳️️️",
+   "forwarded_from_id": "channel1501671025",
+   "saved_from": "WeTheMedia🇯🇵日本語訳️️️",
+   "text": [
+    "WTM投稿者：管理者無記名投稿\n転送元チャネル：Badlands Media\n\nA federal jury rejected Elon Musk’s claims against OpenAI CEO Sam Altman after less than two hours of deliberation, siding with the defense in a dispute over OpenAI’s nonprofit origins and later restructuring.\n\n",
+    {
+     "type": "text_link",
+     "text": "https://badlandsmedia.tv/jury-rejects-musk-claims-against-openai-sam-altman",
+     "href": "https://badlandsmedia.tv/jury-rejects-musk-claims-against-openai-sam-altman/"
+    },
+    "\n\n(翻訳)\n連邦陪審団は、2時間以下の deliberation の後、Elon Musk による OpenAI の CEO Sam Altman に対する主張を退け、OpenAI の非営利の起源とその後の再編に関する争いで被告側を支持した。\n\n",
+    {
+     "type": "text_link",
+     "text": "https://badlandsmedia.tv/jury-rejects-musk-claims-against-openai-sam-altman",
+     "href": "https://badlandsmedia.tv/jury-rejects-musk-claims-against-openai-sam-altman/"
+    },
+    "\n--------\n投稿日時: 日本 2026年5月19日 05:07:01, NY 5月18日 16:07:01, CEST 5月18日 22:07:01\n",
+    {
+     "type": "link",
+     "text": "https://t.me/s/WeTheMedia/141524"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "👉",
+     "href": "https://t.me/WeTheMedia/141524"
+    },
+    {
+     "type": "text_link",
+     "text": "🔗",
+     "href": "https://t.me/WTM_deepl_jp/218218"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "WTM投稿者：管理者無記名投稿\n転送元チャネル：Badlands Media\n\nA federal jury rejected Elon Musk’s claims against OpenAI CEO Sam Altman after less than two hours of deliberation, siding with the defense in a dispute over OpenAI’s nonprofit origins and later restructuring.\n\n"
+    },
+    {
+     "type": "text_link",
+     "text": "https://badlandsmedia.tv/jury-rejects-musk-claims-against-openai-sam-altman",
+     "href": "https://badlandsmedia.tv/jury-rejects-musk-claims-against-openai-sam-altman/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n(翻訳)\n連邦陪審団は、2時間以下の deliberation の後、Elon Musk による OpenAI の CEO Sam Altman に対する主張を退け、OpenAI の非営利の起源とその後の再編に関する争いで被告側を支持した。\n\n"
+    },
+    {
+     "type": "text_link",
+     "text": "https://badlandsmedia.tv/jury-rejects-musk-claims-against-openai-sam-altman",
+     "href": "https://badlandsmedia.tv/jury-rejects-musk-claims-against-openai-sam-altman/"
+    },
+    {
+     "type": "plain",
+     "text": "\n--------\n投稿日時: 日本 2026年5月19日 05:07:01, NY 5月18日 16:07:01, CEST 5月18日 22:07:01\n"
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/s/WeTheMedia/141524"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "👉",
+     "href": "https://t.me/WeTheMedia/141524"
+    },
+    {
+     "type": "text_link",
+     "text": "🔗",
+     "href": "https://t.me/WTM_deepl_jp/218218"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 188496,
+   "type": "message",
+   "date": "2026-05-18T14:30:29",
+   "date_unixtime": "1779136229",
+   "from": "WeTheMedia🇯🇵日本語訳️️️",
+   "from_id": "channel1501671025",
+   "forwarded_from": "Police frequency",
+   "forwarded_from_id": "channel1136479756",
+   "saved_from": "WeTheMedia🇯🇵日本語訳️️️",
+   "photo": "photos/photo_19918@18-05-2026_14-30-29.jpg",
+   "photo_file_size": 73213,
+   "width": 720,
+   "height": 599,
+   "text": [
+    "BREAKING: Active shooter reported at the Islamic Center of San Diego in California. \n\nSDPD is on scene at the Islamic Center of San Diego in the 7000 block of Eckstrom Ave for a reported active shooter.\n\nPlease avoid the area. Updates to follow. \n\n",
+    {
+     "type": "text_link",
+     "text": "San Diego Police Department",
+     "href": "https://x.com/i/status/2056450588884517091?mx=2"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "More details will be provided as they become available. "
+    },
+    "\n\n",
+    {
+     "type": "mention",
+     "text": "@police_frequency"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "BREAKING: Active shooter reported at the Islamic Center of San Diego in California. \n\nSDPD is on scene at the Islamic Center of San Diego in the 7000 block of Eckstrom Ave for a reported active shooter.\n\nPlease avoid the area. Updates to follow. \n\n"
+    },
+    {
+     "type": "text_link",
+     "text": "San Diego Police Department",
+     "href": "https://x.com/i/status/2056450588884517091?mx=2"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "More details will be provided as they become available. "
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "mention",
+     "text": "@police_frequency"
+    }
+   ]
+  },
+  {
+   "id": 188497,
+   "type": "message",
+   "date": "2026-05-18T14:30:37",
+   "date_unixtime": "1779136237",
+   "edited": "2026-05-18T14:30:38",
+   "edited_unixtime": "1779136238",
+   "from": "WeTheMedia🇯🇵日本語訳️️️",
+   "from_id": "channel1501671025",
+   "forwarded_from": "WeTheMedia🇯🇵日本語訳️️️",
+   "forwarded_from_id": "channel1501671025",
+   "saved_from": "WeTheMedia🇯🇵日本語訳️️️",
+   "text": [
+    "WTM投稿者：管理者無記名投稿\n転送元チャネル：Police frequency\n\n(翻訳)\n速報：カリフォルニア州サンディエゴのイスラム教センターでアクティブシューターが報告されました。  \n\nサンディエゴ警察は、エックストロム通り7000ブロックにあるサンディエゴイスラム教センターでアクティブシューターが報告された現場に到着しています。  \n\n現場を避けてください。随時更新します。  \n\n",
+    {
+     "type": "text_link",
+     "text": "サンディエゴ警察",
+     "href": "https://x.com/i/status/2056450588884517091?mx=2"
+    },
+    "  \n\n",
+    {
+     "type": "bold",
+     "text": "詳細が判明次第、お知らせいたします。"
+    },
+    "  \n\n",
+    {
+     "type": "mention",
+     "text": "@police_frequency"
+    },
+    "\n\n(Orinial text starting with: BREAKING: Active shooter reported at the Islamic C...)\n--------\n投稿日時: 日本 2026年5月19日 05:26:39, NY 5月18日 16:26:39, CEST 5月18日 22:26:39\n",
+    {
+     "type": "link",
+     "text": "https://t.me/s/WeTheMedia/141525"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "👉",
+     "href": "https://t.me/WeTheMedia/141525"
+    },
+    {
+     "type": "text_link",
+     "text": "🔗",
+     "href": "https://t.me/WTM_deepl_jp/218220"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "WTM投稿者：管理者無記名投稿\n転送元チャネル：Police frequency\n\n(翻訳)\n速報：カリフォルニア州サンディエゴのイスラム教センターでアクティブシューターが報告されました。  \n\nサンディエゴ警察は、エックストロム通り7000ブロックにあるサンディエゴイスラム教センターでアクティブシューターが報告された現場に到着しています。  \n\n現場を避けてください。随時更新します。  \n\n"
+    },
+    {
+     "type": "text_link",
+     "text": "サンディエゴ警察",
+     "href": "https://x.com/i/status/2056450588884517091?mx=2"
+    },
+    {
+     "type": "plain",
+     "text": "  \n\n"
+    },
+    {
+     "type": "bold",
+     "text": "詳細が判明次第、お知らせいたします。"
+    },
+    {
+     "type": "plain",
+     "text": "  \n\n"
+    },
+    {
+     "type": "mention",
+     "text": "@police_frequency"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n(Orinial text starting with: BREAKING: Active shooter reported at the Islamic C...)\n--------\n投稿日時: 日本 2026年5月19日 05:26:39, NY 5月18日 16:26:39, CEST 5月18日 22:26:39\n"
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/s/WeTheMedia/141525"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "👉",
+     "href": "https://t.me/WeTheMedia/141525"
+    },
+    {
+     "type": "text_link",
+     "text": "🔗",
+     "href": "https://t.me/WTM_deepl_jp/218220"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 188498,
+   "type": "message",
+   "date": "2026-05-18T14:30:43",
+   "date_unixtime": "1779136243",
+   "from": "WeTheMedia🇯🇵日本語訳️️️",
+   "from_id": "channel1501671025",
+   "forwarded_from": "Trump Supporters Channel 🇺🇸",
+   "forwarded_from_id": "channel1459890679",
+   "saved_from": "WeTheMedia🇯🇵日本語訳️️️",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "mRShkOUl7CeusA_remux.mp4",
+   "file_size": 2431708,
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "thumbnail_file_size": 16642,
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 30,
+   "width": 1136,
+   "height": 720,
+   "text": [
+    "Secretary of War Pete Hegseth does an impression of President Trump recounting what Trump told him before taking the job: \"PETE, you're gonna have to be tough as shit… You ready? They're gonna come after you!\"\n\n",
+    {
+     "type": "mention",
+     "text": "@TrumpChannel"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Secretary of War Pete Hegseth does an impression of President Trump recounting what Trump told him before taking the job: \"PETE, you're gonna have to be tough as shit… You ready? They're gonna come after you!\"\n\n"
+    },
+    {
+     "type": "mention",
+     "text": "@TrumpChannel"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 188499,
+   "type": "message",
+   "date": "2026-05-18T14:30:50",
+   "date_unixtime": "1779136250",
+   "edited": "2026-05-18T14:30:52",
+   "edited_unixtime": "1779136252",
+   "from": "WeTheMedia🇯🇵日本語訳️️️",
+   "from_id": "channel1501671025",
+   "forwarded_from": "WeTheMedia🇯🇵日本語訳️️️",
+   "forwarded_from_id": "channel1501671025",
+   "saved_from": "WeTheMedia🇯🇵日本語訳️️️",
+   "text": [
+    "WTM投稿者：管理者無記名投稿\n転送元チャネル：Trump Supporters Channel 🇺🇸\n\n(翻訳)\n戦争省長官のピート・ヘグセスは、トランプ大統領が彼に仕事に就く前に言ったことを再現する。「ピート、お前は超強くなければならない。。。準備はいいか？彼らはお前を追いかけてくるよ」\n\n",
+    {
+     "type": "mention",
+     "text": "@TrumpChannel"
+    },
+    "\n\n(Orinial text starting with: Secretary of War Pete Hegseth does an impression o...)\n--------\n投稿日時: 日本 2026年5月19日 05:29:01, NY 5月18日 16:29:01, CEST 5月18日 22:29:01\n",
+    {
+     "type": "link",
+     "text": "https://t.me/s/WeTheMedia/141526"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "👉",
+     "href": "https://t.me/WeTheMedia/141526"
+    },
+    {
+     "type": "text_link",
+     "text": "🔗",
+     "href": "https://t.me/WTM_deepl_jp/218222"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "WTM投稿者：管理者無記名投稿\n転送元チャネル：Trump Supporters Channel 🇺🇸\n\n(翻訳)\n戦争省長官のピート・ヘグセスは、トランプ大統領が彼に仕事に就く前に言ったことを再現する。「ピート、お前は超強くなければならない。。。準備はいいか？彼らはお前を追いかけてくるよ」\n\n"
+    },
+    {
+     "type": "mention",
+     "text": "@TrumpChannel"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n(Orinial text starting with: Secretary of War Pete Hegseth does an impression o...)\n--------\n投稿日時: 日本 2026年5月19日 05:29:01, NY 5月18日 16:29:01, CEST 5月18日 22:29:01\n"
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/s/WeTheMedia/141526"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "👉",
+     "href": "https://t.me/WeTheMedia/141526"
+    },
+    {
+     "type": "text_link",
+     "text": "🔗",
+     "href": "https://t.me/WTM_deepl_jp/218222"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 188500,
+   "type": "message",
+   "date": "2026-05-18T14:30:50",
+   "date_unixtime": "1779136250",
+   "from": "WeTheMedia_jp日本語訳チャット",
+   "from_id": "channel1613378190",
+   "reply_to_message_id": 188496,
+   "text": "OCR result (unsloth/gemma-4-E4B-it-GGUF:Q5_K_M):\n\nI am aware of the active shooter situation at the Islamic Center of San Diego in Claremont and am continuing to receive updates from law enforcement. Emergency personnel are on scene and actively working to protect the community and secure the area. Please avoid the area and follow instructions from public safety officials. We will share updates as more information becomes available.\n\nかなり怪しい要約 (unsloth/gemma-4-E4B-it-GGUF:Q5_K_M)：\nカリフォルニア州サンディエゴにあるイスラムセンター（Islamic Center of San Diego）で、現在、アクティブシューター（銃乱射事件）が発生しているとの報告があります。サンディエゴ警察署（SDPD）などの緊急対応要員が現場に急行し、地域住民の保護と現場の確保にあたっています。関係当局は、市民に対し、当該エリアを避け、公的機関の指示に従うよう強く呼びかけています。状況の進展に応じて、情報が提供される予定です。",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "OCR result (unsloth/gemma-4-E4B-it-GGUF:Q5_K_M):\n\nI am aware of the active shooter situation at the Islamic Center of San Diego in Claremont and am continuing to receive updates from law enforcement. Emergency personnel are on scene and actively working to protect the community and secure the area. Please avoid the area and follow instructions from public safety officials. We will share updates as more information becomes available.\n\nかなり怪しい要約 (unsloth/gemma-4-E4B-it-GGUF:Q5_K_M)：\nカリフォルニア州サンディエゴにあるイスラムセンター（Islamic Center of San Diego）で、現在、アクティブシューター（銃乱射事件）が発生しているとの報告があります。サンディエゴ警察署（SDPD）などの緊急対応要員が現場に急行し、地域住民の保護と現場の確保にあたっています。関係当局は、市民に対し、当該エリアを避け、公的機関の指示に従うよう強く呼びかけています。状況の進展に応じて、情報が提供される予定です。"
+    }
+   ]
+  },
+  {
+   "id": 188501,
+   "type": "message",
+   "date": "2026-05-18T14:31:35",
+   "date_unixtime": "1779136295",
+   "from": "WeTheMedia_jp日本語訳チャット",
+   "from_id": "channel1613378190",
+   "reply_to_message_id": 188498,
+   "text": "00:00  -->  00:13\n [SPEAKER_01]: President Trump told me when he first offered me this job, he said, Pete, you're going to have to be tough as shit. Sorry.\n\n 00:15  -->  00:18\n [SPEAKER_02]: He did. You ready?\n\n 00:24  -->  00:26\n [SPEAKER_00]: They're going to come after you.\n\n 00:28  -->  00:30\n [SPEAKER_01]: And boy, was he right. He was right.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "00:00  -->  00:13\n [SPEAKER_01]: President Trump told me when he first offered me this job, he said, Pete, you're going to have to be tough as shit. Sorry.\n\n 00:15  -->  00:18\n [SPEAKER_02]: He did. You ready?\n\n 00:24  -->  00:26\n [SPEAKER_00]: They're going to come after you.\n\n 00:28  -->  00:30\n [SPEAKER_01]: And boy, was he right. He was right."
+    }
+   ]
+  },
+  {
+   "id": 188502,
+   "type": "message",
+   "date": "2026-05-18T14:31:48",
+   "date_unixtime": "1779136308",
+   "from": "WeTheMedia_jp日本語訳チャット",
+   "from_id": "channel1613378190",
+   "reply_to_message_id": 188498,
+   "text": [
+    "00:00  -->  00:13\n [SPEAKER_01]: トランプ大統領は、この仕事に最初に私を誘ってくれたとき、「ピート、お前はタフでなければならないぞ」って言いました。すみません。\n\n 00:15  -->  00:18\n [SPEAKER_02]: そうでしたね。準備はいい？\n\n 00:24  -->  00:26\n [SPEAKER_00]: 彼らはあなたを狙ってくるでしょう。\n\n 00:28  -->  00:30\n [SPEAKER_01]: そして、彼は正しかった。彼は正しかったんだ。\n翻訳 unsloth/gemma-4-E4B-it-GGUF:Q5_K_M\n",
+    {
+     "type": "link",
+     "text": "https://t.me/WTM_deepl_jp/218221?comment=188501"
+    },
+    " 1/1"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "00:00  -->  00:13\n [SPEAKER_01]: トランプ大統領は、この仕事に最初に私を誘ってくれたとき、「ピート、お前はタフでなければならないぞ」って言いました。すみません。\n\n 00:15  -->  00:18\n [SPEAKER_02]: そうでしたね。準備はいい？\n\n 00:24  -->  00:26\n [SPEAKER_00]: 彼らはあなたを狙ってくるでしょう。\n\n 00:28  -->  00:30\n [SPEAKER_01]: そして、彼は正しかった。彼は正しかったんだ。\n翻訳 unsloth/gemma-4-E4B-it-GGUF:Q5_K_M\n"
+    },
+    {
+     "type": "link",
+     "text": "https://t.me/WTM_deepl_jp/218221?comment=188501"
+    },
+    {
+     "type": "plain",
+     "text": " 1/1"
+    }
+   ]
+  }
+ ]
+}
